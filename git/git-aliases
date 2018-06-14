@@ -1,0 +1,6 @@
+[user]
+	name = anm792704
+	email = anm792704@googlemail.com
+[alias]
+	status = s
+	gl = log --graph --oneline --decorate --branches --exclude=refs/stash --all
